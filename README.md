@@ -1,5 +1,5 @@
 # lanParty
-    Aplicatia organizeaza echipele participante ale unui concurs, creeaza jocuri, le afiseaza
+    	  Aplicatia organizeaza echipele participante ale unui concurs, creeaza jocuri, le afiseaza
 	  in fisiere dupa care scrie castigatorii in fisiere pe care ii rearanjeaza in alte jocuri.
 	  Procedura se repeta pana ramane o echipa care e desemnata castigatoare.
 	  Structuri de date folosite: arrays, lists, queue, maps, stacks
