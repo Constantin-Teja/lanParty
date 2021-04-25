@@ -1,8 +1,9 @@
 # lanParty
-    	  Aplicatia organizeaza echipele participante ale unui concurs, creeaza jocuri, le afiseaza
-	  in fisiere dupa care scrie castigatorii in fisiere pe care ii rearanjeaza in alte jocuri.
-	  Procedura se repeta pana ramane o echipa care e desemnata castigatoare.
-	  Structuri de date folosite: arrays, lists, queue, maps, stacks
+
+	Aplicatia organizeaza echipele participante ale unui concurs, creeaza jocuri, le afiseaza
+	in fisiere dupa care scrie castigatorii in fisiere pe care ii rearanjeaza in alte jocuri.
+	Procedura se repeta pana ramane o echipa care e desemnata castigatoare.
+	Structuri de date folosite: arrays, lists, queue, maps, stacks
 
 Functia main se afla in fisierul lanParty.cpp. Prima data deschid fisierele de care ma folosesc.
 Citesc din fisierul cerinta cerintele in variabila cc in care am alocat spatiu de 5*sizeof(int).
